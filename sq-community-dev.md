@@ -6,7 +6,7 @@ marp: true
 theme: gaia
 ---
 
-# Developing Suzie Q
+# Developing a new Suzie Q Service
 <br>
 <br>
 <br>
