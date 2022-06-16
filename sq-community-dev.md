@@ -19,28 +19,33 @@ June 16, 2022
 Stephen Corry
 
 ---
-
-# TLDR;
-
-- Not Bad
-
---- 
-# Slightly Longer
-
-Excellent Tool, but Needs Improvement
-- Documentation, Primarily
-- Tough: Normalization
-- Hard: Testing
----
 # Goal
 
-Add basic multicast collection data to Suzie Q. Want the time based state of multicast in a searchable format.
+Add basic multicast collection data to Suzie Q. Want the time based state of multicast in a searchable format, similar to the other services that are already available.
 
 ### Use Case
 
 Distributed, site specific pollers and collectors for other Services in Suzie Q. 
-
 Also collecting routing and interface information.
+
+---
+
+# TLDR;
+
+- Relatively easy to add services once the requirements were determined.
+
+--- 
+# Developer Experience
+Relatively easy to get started using Poetry
+
+Easier with Container lab
+
+Excellent Tool, but needs more developer documentation
+
+Other items:
+- Tough: Normalization
+- Hard: Testing
+- Nice to have: Development Container
 
 ---
 # Documentation
